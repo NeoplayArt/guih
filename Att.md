@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.80",
+  "Version": "1.0.0",
   "ReleaseNotes": "!!NOVA ATUALIZAÇÃO!!",
-  "UrlUpdate": "http://speednettelevom.tk/UrlUpdateTudo.bin",
+  "UrlUpdate": "https://raw.githubusercontent.com/NeoplayArt/guih/main/Att.md",
   "Sms": "https://update4gnet.planos4gnet.com.br/elisa/UrlSms",
   "UrlContato": "https://kutt.it/Club-VPN",
   "UrlContato": "https://play.google.com/store/apps/details?id=com.neoplayart.jdade",
