@@ -1,0 +1,197 @@
+{
+  "Version": "1.0.80",
+  "ReleaseNotes": "!!NOVA ATUALIZAÇÃO!!",
+  "UrlUpdate": "http://speednettelevom.tk/UrlUpdateTudo.bin",
+  "Sms": "https://update4gnet.planos4gnet.com.br/elisa/UrlSms",
+  "UrlContato": "https://kutt.it/Club-VPN",
+  "UrlContato": "https://play.google.com/store/apps/details?id=com.neoplayart.jdade",
+  "UrlTermos": "http://painelplusten.xyz/",
+"CheckUser": "true",
+  "FormatCheck": "ddmmyyyy",
+  "UdpPort": "7200;7300;7400;7500;7600",
+  "Servers": [
+    {
+      "Name": "BRASIL",
+      "TYPE": "BR1 Plus",
+      "FLAG": "br.png",
+      "ServerIP": "apptest.c6bank.app",
+      "CheckUser": "http://209.14.69.179:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+    "Networks": [
+    {
+      "Name": "🔄ESCOLHA SUA OPERADORA🔄",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
+    },
+{
+            "Name": "TIM MEGA VELOZ ",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: appdev.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: neoplayart.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "appdev.c6bank.app",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+    {
+      "Name": "💚TIM NOVA 2.0",
+      "FLAG": "tim", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: neoplayart.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]", 
+      "SNI": "", 
+      "TlsIP": "104.19.241.25", 
+      "ProxyIP": "", 
+      "ProxyPort": "80",  
+      "Info": "Direct"
+    },
+              {
+      "Name": "💜VIVO REGIÕES 1.0",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2qiy2d0qxb6bl.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+                      {
+      "Name": "💜VIVO REGIÕES 2.0",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2qiy2d0qxb6bl.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "13.227.126.60",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+              {
+      "Name": "💜VIVO REGIÕES 3.0",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2qiy2d0qxb6bl.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.70",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+                  {
+      "Name": "💜VIVO REGIÕES 4.0",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2qiy2d0qxb6bl.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.182.33",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+{
+"Name": "♦CLARO FRONT 1.0",
+"FLAG": "Claro",
+"Payload": "GET wss://d2qiy2d0qxb6bl.cloudfront.net HTTP/1.1[crlf]Host: docs.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+"SNI": "metadatadb.lab.smartcontent.clarobrasil.mobi",
+"TlsIP": "docs.amxrest.net",
+"ProxyIP": "docs.amxrest.net",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "🔴CLARO FRONT 1",  
+    "FLAG": "claro",  
+    "Payload": "GET wss://d2qiy2d0qxb6bl.cloudfront.net/ HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",  
+    "SNI": "metadatadb.lab.smartcontent.clarobrasil.mobi",  
+    "TlsIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",  
+    "ProxyIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",  
+    "ProxyPort": "80",  
+    "Info": "Proxy"
+    },
+    {
+    "Name": "🔴CLARO FRONT LINK BOBI",  
+    "FLAG": "claro",  
+    "Payload": "GET wss://d2qiy2d0qxb6bl.cloudfront.net/ HTTP/1.1[crlf]Host: link.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",  
+    "SNI": "",  
+    "TlsIP": "",  
+    "ProxyIP": "108.139.134.87",  
+    "ProxyPort": "80",  
+    "Info": "Proxy"
+    },
+    {
+      "Name": "🔴CLARO FRONT NOWCHER",
+      "FLAG": "claro", 
+      "Payload": "GET wss://d2qiy2d0qxb6bl.cloudfront.net/ HTTP/1.1[crlf]Host: nowcher.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]", 
+      "SNI": "", 
+      "TlsIP": "nowcher.clarobrasil.mobi", 
+      "ProxyIP": "nowcher.clarobrasil.mobi", 
+      "ProxyPort": "80",  
+      "Info": "Proxy"
+   },
+   {
+      "Name": "🔴CLARO MOBILIDADE",
+      "FLAG": "claro",
+      "Payload": "GET-GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "🔴CLARO FRONT ORIGIN API3",
+      "FLAG": "claro",
+      "Payload": "GET wss://d2qiy2d0qxb6bl.cloudfront.net HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "origin.api3.amxrest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "🔴CLARO FRONT BRASIL",
+      "FLAG": "claro",
+      "Payload": "GET wss:// d2qiy2d0qxb6bl.cloudfront.net/ HTTP/1.1[crlf]Host: link.clarobrasil.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "108.139.134.87",
+      "ProxyIP": "108.139.134.87",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "🔴CLARO FRONT EMBRATEL",
+      "FLAG": "claro",
+      "Payload": "GET wss://d2qiy2d0qxb6bl.cloudfront.net/ HTTP/1.1[crlf]Host: preview-embratel.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "preview-embratel.clarobrasil.mobi",
+      "ProxyIP": "preview-embratel.clarobrasil.mobi",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "🔴CLARO FRONT ORIGIN",
+      "FLAG": "claro",
+      "Payload": "GET wss://[rotate=d2qiy2d0qxb6bl.cloudfront.net] HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "origin.api.amxrest.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "💛OI 1.0",
+      "FLAG": "oi",
+      "Payload": "GET ws://www.hbogo.com.br/ HTTP/1.1\nHost: neoplayart.xyz\nUpgrade: WebSocket\n\n",
+      "SNI": "www.hbogo.com.br",
+      "TlsIP": "104.16.51.91",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+   },
+     ]
+    }
