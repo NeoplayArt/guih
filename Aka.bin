@@ -1,7 +1,7 @@
 {
     "Version": "1.0.0",
     "ReleaseNotes": "MANTENHA O APLICATIVO SEMPRE ATUALIZANDO•••••••••••••••••••••••••••••••••••••••••••••••••\r\n••••••••••••••••••••••••••••••••••••••••••••••[🟣 VIVO] em FRONT ONLINE 🧑‍🔧🔵 TIM 🔴 CLARO 🟣 VIVO 🟠 OI===============================\r\n🗣️ Uma dica, recomendo ter dois chip===============================🧑🏻‍💻 Qualquer dificuldade para Conectar entre em contato🙋🏻‍♂️ Com seu revendedor 🤔 para ele te orientar 👍🏻….",
-    "UrlUpdate": "",
+    "UrlUpdate": "https://raw.githubusercontent.com/NeoplayArt/guih/main/Aka.bin",
     "Sms": "",
     "EmailFeedback": "",
     "UrlContato": "",
@@ -9,7 +9,7 @@
     "CheckUser": "false",
     "Udp": [
         {
-            "Porta": "7300"
+            "Porta": "7200;7300;7400;7500;7600"
         }
     ],
     "Servers": [
