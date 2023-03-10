@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.0",
+    "Version": "1",
     "ReleaseNotes": "MANTENHA O APLICATIVO SEMPRE ATUALIZANDO•••••••••••••••••••••••••••••••••••••••••••••••••\r\n••••••••••••••••••••••••••••••••••••••••••••••[🟣 VIVO] em FRONT ONLINE 🧑‍🔧🔵 TIM 🔴 CLARO 🟣 VIVO 🟠 OI===============================\r\n🗣️ Uma dica, recomendo ter dois chip===============================🧑🏻‍💻 Qualquer dificuldade para Conectar entre em contato🙋🏻‍♂️ Com seu revendedor 🤔 para ele te orientar 👍🏻….",
     "UrlUpdate": "https://raw.githubusercontent.com/NeoplayArt/guih/main/Aka.bin",
     "Sms": "",
@@ -320,7 +320,7 @@
             {
       "Name": "💙TIM NOVA 2.0",
       "FLAG": "tim", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: neoplayart.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]", 
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: akatsukinet.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]", 
       "SNI": "", 
       "TlsIP": "104.19.241.25", 
       "ProxyIP": "", 
@@ -333,7 +333,7 @@
       "Payload": "HTTP/ [crlf][crlf]|[crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "[app_host]",
+      "ProxyIP": "akatsukinet.shop",
       "ProxyPort": "80",
       "Info": "Proxy"
 }
