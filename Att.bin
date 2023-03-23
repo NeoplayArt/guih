@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "!!NOVA ATUALIZAÇÃO!!",
   "UrlUpdate": "https://raw.githubusercontent.com/NeoplayArt/guih/main/Att.bin",
   "Sms": "https://https://update4gnet.planos4gnet.com.br/elisa/UrlSms",
@@ -93,6 +93,126 @@
       "ProxyPort": "80",  
       "Info": "Direct"
     },
+    {
+            "Name": "💙TIM & VIVO💜",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: landing.stoodi.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "helpypro.stoodi.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+            },
+                                    {
+            "Name": "VIVO  ON 1✅",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: neoplayart.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+            },
+            {
+            "Name": "VIVO  ON 2✅",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: landing.stoodi.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "helpypro.stoodi.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+            },
+        {
+      "Name": "VIVO  ON 3✅",
+      "FLAG": "vivo",
+      "Payload": "GET-TOPSPEED wss://neoplayart.xyz/ HTTP/1.1[crlf]Host: neoplayart.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]TOPSPEED[crlf][crlf]",
+      "SNI": "neoplayart.xyz",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+        {
+            "Name": "🟣 VIVO FLARE [01]",
+            "FLAG": "vivo.png",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:neoplayart.xyz[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [04]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Expect: 100-wesley[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "ffsupportbd.garena.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [05]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Expect: 100-wesley[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "duvidas.ampli.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [06]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Expect: 100-wesley[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "support.moovitapp.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [07]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Expect: 100-wesley[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "support.deezer.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [08]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Expect: 100-wesley[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "support.hotmart.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [09]",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: neoplayart.xyz[lf]Expect: 100-wesley[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "localonlinepresence.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣 VIVO FLARE [10]",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:neoplayart.xyz[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
               {
       "Name": "💜VIVO REGIÕES 1.0",
       "FLAG": "vivo",
